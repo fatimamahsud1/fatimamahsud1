@@ -5,7 +5,7 @@
   
  #### A Little About Me:
 
-🙋‍♂️ Under-graduate Computer Science Student [COMSATS_Islamabad]<br>
+🙋‍♂️ Graduate Computer Science Student [COMSATS_Islamabad]<br>
 👉 Former Campus Lead/President July 2022- June 2023 [COMSATS_Islamabad][gdsc_cui]<br>
 👉 Core-Team Member(Creative Lead) 2021-2022 [COMSATS_Islamabad][gdsc_cui]<br>
 💻 Intermediate Level React native Developer, Full Stack MERN Developer<br>
